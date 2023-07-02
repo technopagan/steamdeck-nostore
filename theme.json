@@ -1,7 +1,7 @@
 {
   "name": "No Store",
   "author": "technopagan",
-  "manifest_version": 1,
+  "manifest_version": 6,
   "version": "0.1",
   "target": "Tweak",
   "description": "Hide the Store button on SteamDeck main menu.",
